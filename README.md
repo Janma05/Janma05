@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Janma A.S. 👋
 
-<!--
-**Janma05/Janma05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence & Machine Learning Graduate
 
-Here are some ideas to get you started:
+💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Machine Learning Enthusiast
+
+📊 Data Analytics Enthusiast
+
+## Skills
+- Python
+- Machine Learning
+- Artificial Intelligence
+- SQL
+- Data Analytics
+
+## Projects
+### 🏥 MediPredictAI
+AI-powered healthcare prediction system.
+
+### 💪 AI Gym & Fitness Assistant
+Real-time exercise tracking and fitness guidance.
+
+### 🌿 Derm-AI
+Personalized skincare recommendation system using AI.
+
+## Connect With Me
+📧 Email: janmagowda56@gmail.com
+
+📍 Mangaluru, Karnataka, India
+
+💼 Open to Full-Time Opportunities in AI, ML & Data Analytics
