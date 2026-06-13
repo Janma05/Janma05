@@ -18,6 +18,9 @@ Passionate about building AI-powered applications, predictive analytics solution
 
 ## 📂 Featured Projects
 
+### 🐘 RakshaNetra – Real-Time Animal Detection and Alert Platform
+AI-powered wildlife monitoring and safety platform that uses Computer Vision and Machine Learning for real-time animal detection. The system generates instant alerts to help prevent human-wildlife conflicts and improve safety in vulnerable areas.
+
 ### 🏥 MediPredictAI
 AI-powered healthcare management system with patient record management, risk prediction, CRUD operations, and data export functionality.
 
@@ -39,6 +42,8 @@ Predictive analytics project using Random Forest to forecast term deposit subscr
 ## 📫 Connect With Me
 
 📧 Email: janmagowda56@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/janma-gowda-b27313332
 
 📍 Mangaluru, Karnataka, India
 
